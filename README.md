@@ -10,11 +10,11 @@ I'm a passionate Frontend Developer with nearly a decade of experience in buildi
 - **Code Conversion**: Converting designs from **Figma**, **Photoshop**, and **Illustrator** into clean, efficient code for fully responsive and visually appealing interfaces. 
 
 ### 🔧 My Tech Toolbox 
-- 🚀 **Frameworks & Libraries**: Angular, React, Vue.js 
+- 🚀 **Frameworks & Libraries**: React, Angular, Vue.js & JQuery
 - 🔗 **APIs**: RESTful, GraphQL 
-- 💻 **Languages**: HTML, CSS, JavaScript, PHP
+- 💻 **Languages**: HTML, CSS, JavaScript, TypeScript & PHP
 - 🛠️ **Tools**: npm, Git, VScode
-- 🎨 **Styling**: Bootstrap 5, SCSS 
+- 🎨 **Styling**: Mantine, Bootstrap 5, Tailwind CSS, SCSS
 - 🌐 **Content Management**: WordPress Development 
 - 🗄️ **Backend**: MySQL, Laravel
 
