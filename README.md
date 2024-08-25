@@ -1,31 +1,29 @@
-<h1 align="center">👋 Hello! I'm Apple Mahmood</h1>
+# 👋 Hi there! I'm Apple Mahmood 
 
-<p align="center">
-I'm a Frontend Engineer at RedLime Solutions Limited. I have worked in this field for more than 10 years. I have a lot of experience coding for websites and web applications efficiently. I love to work on React, Angular, and Vue Projects. 
-</p>
-<p align="center"> 
-Everyday I am playing with HTML, CSS
-</p>
+### Frontend Developer | Team Lead | 10+ Years of Experience
 
+I'm a passionate Frontend Developer with nearly a decade of experience in building high-performance, engaging web applications. Currently, I lead a talented team of frontend developers, guiding them to deliver user-friendly, cutting-edge applications. I am currently working as a Frontend Development Team lead at RedLime Solutions Limited.
 
+### 🚀 What I Do 
+- **Craft & Develop**: Building interactive single-page applications (SPAs) with **React** and **Angular**.
+- **Collaboration**: Working closely with backend teams to implement **RESTful** and **GraphQL APIs**.
+- **Code Conversion**: Converting designs from **Figma**, **Photoshop**, and **Illustrator** into clean, efficient code for fully responsive and visually appealing interfaces. 
 
-## Hey! 👋
-I'm Apple Mahmood, a Frontend Engineer and Team Lead with more than 10 years of experience from Bangladesh.
+### 🔧 My Tech Toolbox 
+- 🚀 **Frameworks & Libraries**: Angular, React, Vue.js 
+- 🔗 **APIs**: RESTful, GraphQL 
+- 💻 **Languages**: HTML, CSS, JavaScript, PHP
+- 🛠️ **Tools**: npm, Git, VScode
+- 🎨 **Styling**: Bootstrap 5, SCSS 
+- 🌐 **Content Management**: WordPress Development 
+- 🗄️ **Backend**: MySQL, Laravel
 
-- 👨‍💻 Frontend Team Lead [Redlime Solutions](https://rltechbd.com/)
+### ✨ A Bit About Me 
 
-- 📄 I have a lot of experience coding for websites and web applications efficiently
+I’m driven by the ever-evolving world of technology and love to stay at the forefront of new tools and best practices. I take pride in fostering collaboration and communication within my team, always striving for creativity and excellence in every project.
 
-- 💻 I am currently working on React and Angular projects.
+### 💬 **Let's Connect!** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apple-mahmood-95480332) &nbsp;&nbsp; [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=skype&logoColor=white)](skype:apple.mahmood?call) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=web&logoColor=white)](https://www.applemahmood.com/) &nbsp;&nbsp; [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@appl4e)
 
-+ a lot more ;)
-
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
-
-## Contact
-- [Linkedin](www.linkedin.com/in/apple-mahmood-95480332)
+---
+Feel free to reach out if you want to collaborate on exciting projects or just chat about web development! You can find me on [LinkedIn](https://www.linkedin.com/in/apple-mahmood-95480332) or drop me an email at [appl4e@gmail.com](mailto:appl4e@gmail.com).
