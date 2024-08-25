@@ -2,7 +2,7 @@
 
 ### Frontend Developer | Team Lead | 10+ Years of Experience
 
-I'm a passionate Frontend Developer with nearly a decade of experience in building high-performance, engaging web applications. Currently, I lead a talented team of frontend developers, guiding them to deliver user-friendly, cutting-edge applications. I am currently working as a Frontend Development Team lead at RedLime Solutions Limited.
+I'm a passionate Frontend Developer with nearly a decade of experience in building high-performance, engaging web applications. Currently, I lead a talented team of frontend developers, guiding them to deliver user-friendly, cutting-edge applications. I am working as a Frontend Development Team lead at RL Technologies LTD.
 
 ### 🚀 What I Do 
 - **Craft & Develop**: Building interactive single-page applications (SPAs) with **React** and **Angular**.
